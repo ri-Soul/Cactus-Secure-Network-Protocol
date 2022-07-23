@@ -1,6 +1,6 @@
-![Raptor!](Raptor.png)
 Raptor a TCP-CHAT made with Python!
 Comming up 1 January... A forum for programmers, gamers, developers and more,...
+![Raptor!](Raptor.png)
 
 SECURE: encrypted with RSA!
 ANONYMOUS: no logs or personal information...
